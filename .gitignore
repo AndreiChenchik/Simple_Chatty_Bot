@@ -1,0 +1,45 @@
+# Project exclude paths
+/.gradle/
+/Problems/Arithmetic expression/out/
+/Problems/Arithmetic expression/out/production/classes/
+/Problems/Boys in a sport class/out/
+/Problems/Boys in a sport class/out/production/classes/
+/Problems/Cats are robots/out/
+/Problems/Cats are robots/out/production/classes/
+/Problems/Check the sum/out/
+/Problems/Check the sum/out/production/classes/
+/Problems/Chocolate/out/
+/Problems/Chocolate/out/production/classes/
+/Problems/Comparing strings ignoring whitespaces/out/
+/Problems/Comparing strings ignoring whitespaces/out/production/classes/
+/Problems/Even or odd/out/
+/Problems/Even or odd/out/production/classes/
+/Problems/Good rest on vacation/out/
+/Problems/Good rest on vacation/out/production/classes/
+/Problems/Hello_/out/
+/Problems/Hello_/out/production/classes/
+/Problems/How many nuts each squirrel will get/out/
+/Problems/How many nuts each squirrel will get/out/production/classes/
+/Problems/Is between/out/
+/Problems/Is between/out/production/classes/
+/Problems/Print strings in the reverse order/out/
+/Problems/Print strings in the reverse order/out/production/classes/
+/Problems/Size of parts/out/
+/Problems/Size of parts/out/production/classes/
+/Problems/The integer barrier/out/
+/Problems/The integer barrier/out/production/classes/
+/Problems/The largest element of a sequence/out/
+/Problems/The largest element of a sequence/out/production/classes/
+/Problems/The product of numbers from a to b/out/
+/Problems/The product of numbers from a to b/out/production/classes/
+/Problems/The sequence/out/
+/Problems/The sequence/out/production/classes/
+/Problems/The smallest value/out/
+/Problems/The smallest value/out/production/classes/
+/Problems/The sum of digits/out/
+/Problems/The sum of digits/out/production/classes/
+/Problems/The sum of integers from a to b/out/
+/Problems/The sum of integers from a to b/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
